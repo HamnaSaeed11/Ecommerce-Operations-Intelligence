@@ -68,6 +68,20 @@ The report contains four interactive pages:
 - Review score distribution
 - Average review score by delivery time
 
+- ## Dashboard Preview
+
+### 1. Sales Overview
+![Sales Overview](screenshots/sales_overview.png)
+
+### 2. Delivery Performance & Logistics Insights
+![Delivery Performance](screenshots/delivery_performance.png)
+
+### 3. Seller & Product Performance Analysis
+![Seller Performance](screenshots/seller_product_analysis.png)
+
+### 4. Customer Satisfaction & Review Insights
+![Customer Satisfaction](screenshots/customer_satisfaction.png)
+
 ## Tools & Technologies
 
 | Tool | Purpose |
