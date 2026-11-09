@@ -74,7 +74,7 @@ The report contains four interactive pages:
 ![Sales Overview](screenshots/sales_overview.png)
 
 ### 2. Delivery Performance & Logistics Insights
-![Delivery Performance](screenshots/delivery_performance.png)
+![Delivery Performance](screenshots/delivery_perfomance.png)
 
 ### 3. Seller & Product Performance Analysis
 ![Seller Performance](screenshots/product_analysis.png)
